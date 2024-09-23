@@ -7,6 +7,7 @@ checklog checks for both log files and then begins working through log.txt from 
 This program was created for Linux and comes with a makefile for easy compiling. Syntax is as follows.
 
 ./addlog user_content
+
 ./checklog
 
 user_content must be one string. For long messages with spaces you can use quotations to encapsulate the content.
